@@ -14,11 +14,9 @@ h3{
 }
 #img{
     object-fit: cover;
-    width:425px; 
-    height:425px
-    
+  
 }
-#post{
-    width:500px;
-    height: 625px;
+
+#fondo{
+    width: 100%;
 }
